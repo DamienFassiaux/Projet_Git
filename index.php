@@ -29,22 +29,27 @@
 
         <h1 class="display-4 text-center my-5">Mon projet Git</h1>
 
-        <div id="carouselExampleSlidesOnly text-center" class="carousel slide" data-ride="carousel">
+        <div id="carouselExampleSlidesOnly" class="carousel slide col-md-12" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                  <img src="https://picsum.photos/id/237/300/150" class="d-block w-50" alt="">
+                  <img src="https://picsum.photos/id/237/300/150" class="d-block w-100" alt="">
               </div>
               <div class="carousel-item">
-                <img src="https://picsum.photos/id/238/300/150" class="d-block w-50" alt="">
+                <img src="https://picsum.photos/id/238/300/150" class="d-block w-100" alt="">
               </div>
               <div class="carousel-item">
-                <img src="https://picsum.photos/id/239/300/150" class="d-block w-50" alt="">
+                <img src="https://picsum.photos/id/239/300/150" class="d-block w-100" alt="">
               </div>
             </div>
           </div>
 
-      <section></section>
-      <section></section>
+      <section><p class="col-md-10 mx-auto text-justify m-3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero quasi distinctio hic provident voluptatibus natus nisi magni exercitationem commodi voluptates laboriosam incidunt eligendi repellendus necessitatibus veniam ipsam, odit dolores culpa!
+      Totam dolor quae quam sunt eum cupiditate dolorem est saepe nam vero voluptates officiis ea, nesciunt maxime doloribus magni provident necessitatibus natus, veritatis illo vel, maiores similique molestiae debitis. Ullam.
+      Odit nobis ad quasi deleniti ipsam esse dolor praesentium, culpa incidunt dolores. Culpa ea laudantium hic nihil optio tempore obcaecati minus voluptatem. Dolore ut dolores enim optio accusamus libero alias!
+      Voluptatum pariatur quasi sequi placeat ipsam voluptates error, doloremque alias libero quaerat quod, est nostrum voluptas numquam praesentium dolores quas deleniti. Dolorum dicta aliquam iure vitae non, velit nam sequi.</p></section>
+      <section><p class="col-md-10 mx-auto text-justify m-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam necessitatibus delectus, minima facere quibusdam omnis eos eveniet similique reprehenderit iste beatae doloribus aliquid mollitia dicta earum! Voluptatibus magnam suscipit vel.
+      Aperiam hic excepturi molestiae pariatur nobis distinctio impedit reiciendis accusamus unde voluptatem quisquam doloremque recusandae illum sequi eligendi dolore et velit temporibus, sed, nisi itaque accusantium. In quod ex unde.
+      Quidem iure maiores cupiditate. Quae alias expedita ratione nisi corporis. Sequi reprehenderit dignissimos incidunt! Nam ratione sequi recusandae accusamus laborum consequatur veniam. Perferendis culpa consequatur eos deserunt sint cum quo? </p></section>
       <section></section>
 
       <article></article>
