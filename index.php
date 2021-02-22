@@ -13,17 +13,17 @@
 
 <body>
 
-    <div class="container">
+    <div class="container" style="min-height: 85vh;">
 
           <nav class="navbar navbar-light bg-light">
             <div class="container-fluid">
-               <a class="navbar-brand" href="#">Navbar</a>
+               <a class="navbar-brand" href="#">Navbar1</a>
            </div>
          </nav>
 
          <nav class="navbar navbar-light bg-light">
            <div class="container-fluid">
-             <span class="navbar-brand mb-0 h1">Navbar</span>
+           <a class="navbar-brand" href="#">Navbar2</a>
            </div>
         </nav>
 
@@ -32,6 +32,11 @@
 
 
     </div>
+
+    <footer class="bg-light text-center py-3">
+&copy; 2021 - DFDevWeb - Pas touche c'est mon site à moi !!!
+
+</footer>
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
